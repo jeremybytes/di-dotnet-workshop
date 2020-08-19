@@ -286,13 +286,13 @@ BONUS CHALLENGE - Ninject: Step-By-Step
 ---------------------------------------
 1. Add the Ninject NuGet package to the "DrawMaze" project.
 
-**Visual Studio Code:** Open a command prompt and navigate to the HouseControlAgent project folder. Type the following to add the "Ninject" NugetPackage:
+**Visual Studio Code:** Open a command prompt and navigate to the "DrawMaze" project folder. Type the following to add the "Ninject" NugetPackage:
 
 ```
 dotnet add package Ninject
 ```
 
-**Visual Studio 2019:** In the "HouseControlAgent" project, right-click on the Dependencies and select "Manage NuGet Packages". Then use the search box to locate "Ninject" and install it.
+**Visual Studio 2019:** In the "DrawMaze" project, right-click on the Dependencies and select "Manage NuGet Packages". Then use the search box to locate "Ninject" and install it.
 
 2. Add the assembly references to the top of the "Program.cs" file.
 
