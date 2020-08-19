@@ -118,6 +118,10 @@ Handling configuration strings with a container can be tricky. This example show
 *PersonReader.Service/ServiceReaderUri.cs*  
 *PeopleViewer/App.xaml.cs*  
 
-Further Information
--------------------
+Additional Resources
+--------------------
+Links to articles, videos, and additional code samples:  
+* [DI Why? Getting a Grip on Dependency Injection](http://www.jeremybytes.com/Demos.aspx#DI)   
+* [Diving Deeper into Dependency Injection](http://www.jeremybytes.com/Demos.aspx#MoreDI)  
+
 For more information, visit [jeremybytes.com](http://www.jeremybytes.com).
